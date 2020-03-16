@@ -1,0 +1,26 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.bgi{
+	background-image:url(img/mv2.jpg);
+	background-size:cover;
+	background-position:bottom;
+	height:400px;
+	width:100%;
+}
+.introduction{
+	padding:20px;
+}
+main{
+	width:840px;
+	margin:50px auto;
+}
+
+.main-text{
+	color:gray;
+	padding-bottom: 30px;
+	margin-bottom:30px;
+	border-bottom:0.5px solid gray;
+}/* 線が表示されなくて詰んでる*/
